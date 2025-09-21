@@ -1,3 +1,3 @@
-# Sentimental Analysis - Dresden Optics 
+# Sentimental Analysis
 
-![Uploading sentiment.jpg…]()
+
